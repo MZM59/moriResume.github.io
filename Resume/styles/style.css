@@ -1,0 +1,90 @@
+html {
+  font-size: 15px; 
+  background-image:url(C:/Users/User/Desktop/Programming-Projectrs/Resume/images/web-pic.jpg);
+  background-size:cover;
+  background-attachment:fixed;
+  }
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #FF6501;
+  text-shadow: 2px 2px 1px black;
+}
+
+p, li {
+  font-family: sans-serif; 
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 900px;
+  top:60px;
+  margin: 0 auto;
+  background-image:url(C:/Users/User/Desktop/Programming-Projectrs/Resume/images/greyBack.jpg);
+  background-size:cover;
+  padding: 0 20px 20px 20px;
+  border: 5px solid white;
+}
+
+#p1,#p2,#p3,#p4,#p5,#p6{
+	color:#008CBA;
+	text-decoration: underline;
+}
+
+#pl{
+	text-align:center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+button {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#b1{
+	position:absolute;
+	display: inline-block;
+	left:15px;
+	top:15px;
+}
+
+#b2{
+	display: block;
+	margin: 0 auto;
+}
+
+#register{
+	position:absolute;
+	color:black;
+	font-family: Arial, Helvetica, sans-serif; 
+	top:0px;
+	float:left;
+}
+
+#details{
+	text-align:center;
+}
+
+#Resume{
+	display:none;
+}
+
+
+
+
+
+
